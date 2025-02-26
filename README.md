@@ -26,7 +26,7 @@ I'm an **Electronics and Communication graduate** passionate about **MERN stack 
 ## 📫 How to Reach Me
 - LinkedIn: [Yonadhan MM](https://www.linkedin.com/in/yonadhanmm/)
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [yonadhanmm77@example.com](mailto:your.yonadhanmm77@example.com)
 
 - GitHub: [@YONADHAN](https://github.com/YONADHAN)
 
