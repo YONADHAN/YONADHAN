@@ -1,79 +1,62 @@
-# 👋 Hey, I'm Yonadhan M M
+# Yonadhan M M
 
-> 💻 MERN Stack Developer | 🎯 Passionate Learner | ⚙️ Building Scalable & Smart Web Applications
-
----
-
-## 🚀 About Me
-I'm an **Electronics & Communication Engineering graduate (B.Tech)** turned **MERN Stack Developer** with a deep passion for crafting clean, efficient, and impactful web solutions.  
-I enjoy solving real-world problems through code and continuously improving my understanding of modern web technologies and architecture.
+Full Stack MERN Developer | Backend-focused | Building scalable web applications
 
 ---
 
-## 🧠 Current Focus
-- 🔹 Building full-stack web apps using **Clean Architecture**
-- 🔹 Integrating **real-time communication (WebRTC + Socket.IO)**
-- 🔹 Mastering **Data Structures & Algorithms** for technical interviews
+## About Me
+
+I am a B.Tech (ECE) graduate (2020–2024) with 1+ year of experience building full-stack applications using the MERN stack.
+I focus on backend development, clean architecture, and solving real-world problems through scalable system design.
 
 ---
 
-## 🧰 Tech Toolbox
+## Tech Stack
 
-### 🌐 Frontend
-`React.js` • `Next.js` • `Redux Toolkit` • `Tailwind CSS` • `TypeScript`
-
-### ⚙️ Backend
-`Node.js` • `Express.js` • `REST APIs` • `Clean Architecture`
-
-### 🗄️ Database & DevOps
-`MongoDB` • `Mongoose` • `Redis` • `JWT` • `Cloudinary` • `MinIO`
-
-### 🔍 Currently Exploring
-`WebRTC` • `Socket.IO` • `AI Integrations` • `Microservices`
+**Languages:** JavaScript, TypeScript, Python, SQL
+**Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs, Socket.IO
+**Databases & Tools:** MongoDB, Redis, AWS EC2, Cloudinary
+**Concepts:** Data Structures & Algorithms, OOP, DBMS, Basic Computer Networks
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🧾 **Fixora – A Service Booking Web App**
-> A full-featured **MERN application** for customers and vendors to connect for home services.
-- Real-time chat & booking management  
-- Role-based authentication system  
-- Admin dashboard for service tracking  
-- Integration with Google Maps API & Stripe Payments  
-🔗 [View Repository](https://github.com/YONADHAN/Fixora---A-Service-Booking-Web-Application)
+### Fixora – Service Booking Platform
 
----
+* Built a multi-role platform for customers and vendors
+* Implemented Redis-based locking to handle concurrent bookings
+* Integrated Stripe for secure payments
+* Real-time updates using Socket.IO
+* Clean architecture-based backend design
 
-### 🛒 **E-Commerce Platform**
-> A responsive shopping app with authentication, cart, and checkout system.
-- User authentication (JWT)  
-- Dynamic cart management  
-- Payment integration  
-- Admin control panel  
+Frontend: https://github.com/YONADHAN/Fixora---client
+Backend: https://github.com/YONADHAN/Fixora---api
 
 ---
 
-## 🤝 Looking to Collaborate On
-- MERN Stack Projects  
-- Real-time communication apps (WebRTC + Socket.IO)  
-- Open Source Projects  
+### OceanOfLaptops – E-Commerce Platform
+
+* Developed full-stack e-commerce system with authentication
+* Implemented JWT and Google OAuth login
+* Integrated Razorpay payment gateway
+* Built admin dashboard for product and order management
+
+Frontend: https://github.com/YONADHAN/oceanoflaptops-frontend
+Backend: https://github.com/YONADHAN/oceanoflaptops-backend
 
 ---
 
-## 📫 Connect With Me
+## Coding
 
-📧 **Email:** [yonadhanmm77@example.com](mailto:yonadhanmm77@example.com)  
-💼 **LinkedIn:** [Yonadhan M M](https://www.linkedin.com/in/yonadhanmm/)  
-💻 **GitHub:** [@YONADHAN](https://github.com/YONADHAN)
-
----
-
-## ⚡ Fun Fact
-I practice typing daily to improve my coding speed and love experimenting with **new frameworks** every month! 🚀
+* Solved 239+ DSA problems (arrays, trees, graphs, recursion)
+* LeetCode: https://leetcode.com/u/yonadhanmm77
 
 ---
 
-> _“Code isn’t just logic — it’s how you build the future.”_
+## Contact
 
-✨ **Let’s build something extraordinary together!** ✨
+Email: [yonadhan.mm.dev@gmail.com](mailto:yonadhan.mm.dev@gmail.com)
+LinkedIn: https://www.linkedin.com/in/yonadhanmm
+GitHub: https://github.com/YONADHAN
