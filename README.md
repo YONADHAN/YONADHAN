@@ -13,11 +13,12 @@ I focus on backend development, clean architecture, and solving real-world probl
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, SQL
-**Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs, Socket.IO
-**Databases & Tools:** MongoDB, Redis, AWS EC2, Cloudinary
-**Concepts:** Data Structures & Algorithms, OOP, DBMS, Basic Computer Networks
+* **Languages:** JavaScript, TypeScript, Python, SQL
+* **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
+* **Backend:** Node.js, Express.js, REST APIs, Socket.IO
+* **Databases & Tools:** MongoDB, Redis, AWS EC2, Cloudinary
+* **Concepts:** Data Structures & Algorithms, OOP, DBMS, Basic Computer Networks
+
 
 ---
 
