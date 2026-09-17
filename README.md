@@ -99,6 +99,9 @@ A MERN-based e-commerce application with customer and administrative workflows.
 * Built an administrative dashboard for product and order management.
 * Deployed the backend using AWS EC2 and the frontend using Vercel.
 
+**Live**
+[OceanOfLaptops](https://oceanoflaptops.store)
+
 **Repositories:**
 [Frontend](https://github.com/YONADHAN/oceanoflaptops-frontend) · [Backend](https://github.com/YONADHAN/oceanoflaptops-backend)
 
