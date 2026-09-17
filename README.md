@@ -104,9 +104,11 @@ A MERN-based e-commerce application with customer and administrative workflows.
 **Repositories:**
 [Frontend](https://github.com/YONADHAN/oceanoflaptops-frontend) · [Backend](https://github.com/YONADHAN/oceanoflaptops-backend)
 
-
 **Live:**
 [htttps://oceanoflaptops.store](https://oceanoflaptops.store)
+
+
+
 ---
 
 ### AI Chatbot — Gemini Tool-Calling Assistant
